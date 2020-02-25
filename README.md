@@ -12,4 +12,5 @@ useful websites:<br>
 4)giphy<br>
 5)https://www.bestcssbuttongenerator.com/<br>
 6)https://www.frontendmentor.io/<br>
-7)font awesome
+7)font awesome<br>
+8)bootsnip
